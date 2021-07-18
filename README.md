@@ -3,7 +3,9 @@
 # Install serverless package
 ```
 npm install serverless -g
+npm i
 ```
+
 
 # Install Flask package
 ```
@@ -26,3 +28,4 @@ sls deploy
 You can see endpoint in console.
 # Reference
 https://ithelp.ithome.com.tw/articles/10213432
+https://www.serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb

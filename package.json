@@ -1,0 +1,23 @@
+{
+  "name": "flask-lambda",
+  "version": "1.0.0",
+  "description": "# Install serverless package ``` npm install serverless -g npm i ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabaao/flask-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabaao/flask-lambda/issues"
+  },
+  "homepage": "https://github.com/sabaao/flask-lambda#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.1",
+    "serverless-wsgi": "^1.7.8"
+  }
+}
